@@ -1,158 +1,142 @@
-<h1 align="center">🔥 DoctorX – Full-Stack Developer, Reverse Engineer & Cybersecurity Specialist 🔥</h1>
+<!-- Profile README for github.com/doctorx -->
+
+<h1 align="center">Hi, I'm <strong>DoctorX</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/3T3QX1C.gif" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70F0F&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Reverse+Engineer+%26+Malware+Analysis;Cybersecurity+%26+Pentesting+Expert;Desktop+Apps+%28WinForms%2C+Avalonia%2C+WPF%29;API+Architect+%28Node%2C+Go%2C+.NET%29;Building+Automation+%26+SaaS+Platforms;Linux+%7C+Bash+%7C+Networking;Always+Learning+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+%26+Reverse+Engineer;Desktop+Apps+%7C+APIs+%7C+Automation;Bash+Scripting+%7C+Linux+Power+User;Building+Real-World+SaaS+%26+Tools" />
 </p>
 
 ---
 
-## 🧑‍💻 **About Me**
-I'm **DoctorX**, a passionate developer who builds:
-- ⚙️ Advanced **Desktop Apps** (WinForms, Avalonia, WPF)
-- 🔥 **Go / Node / .NET APIs** with JWT, Roles, MongoDB, SQL, Redis
-- 🧬 **Reverse Engineering & Malware Analysis**
-- 🔐 **Cybersecurity / Pentesting** (Linux, Bluetooth, Networking, Tools)
-- 🔄 **Automation Platforms** (Messenger / WhatsApp / SaaS Systems)
-- 🧠 AI Integrations + LLM Agents
-- 🎨 Modern UI/UX for Web & Desktop
+## 🧑‍💻 About Me
 
-I love building **real products**, high-performance tools, and advanced systems.
+I'm **DoctorX**, a developer who likes to build **real, production-level software**, not just tutorials.
+
+- 🧱 Full-stack development (frontend + backend + databases)
+- 🖥 Desktop applications with **C# / .NET (WinForms, WPF, Avalonia)**
+- 🌐 API design with **Node.js / Express, Go, .NET**
+- 🧠 Strong interest in **reverse engineering, malware analysis & obfuscation**
+- 🔐 Cybersecurity & pentesting (Linux, networking, Bluetooth, tools)
+- 🧪 Love to experiment with **automation, bots, and SaaS products**
+- 📚 Constantly learning & refactoring to cleaner architectures
+
+> “Code that ships, scales, and survives analysis.” – that’s the goal.
 
 ---
 
-## 🚀 **Tech Stack & Tools**
+## 🎯 Focus Areas
 
-### 🖥️ **Languages**
+- **Desktop Apps**
+  - WinForms, WPF, Avalonia (.NET 4.8 / .NET 9, Native AOT)
+  - License systems, obfuscation, WebView2 integrations
+
+- **Backend & APIs**
+  - REST APIs with **Express (Node.js)**, **Go (Gin/Fiber/Echo)**, **ASP.NET**
+  - Auth (JWT, roles, refresh tokens), validation, clean architecture
+
+- **Cybersecurity & Reverse Engineering**
+  - Analyzing binaries (IDA, x64dbg, Ghidra)
+  - Decompiling & understanding legacy apps (VB6, .NET, C++)
+  - Obfuscation strategies, packers, stubs, FUD research
+
+- **Automation & Bots**
+  - WhatsApp / Messenger automations
+  - SaaS-like tools for marketing, messaging, and workflow automation
+
+- **Linux & Scripting**
+  - Bash scripting, tooling, automations
+  - Using Linux for pentesting, recon, scanning
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,go,ts,js,cpp,rust,python,bash,powershell&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,go,ts,js,cpp,python,bash&perline=7" />
 </p>
 
----
+### 🌐 Backend & APIs
 
-### 🎨 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,redux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,dotnet,postgres,mongodb,redis&perline=7" />
 </p>
 
----
+- JWT auth & role-based access  
+- MongoDB & SQL (PostgreSQL)  
+- REST design, middleware, clean layers  
 
-### 🛠 **Backend & APIs**
+### 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,dotnet,postgres,mongodb,redis,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css&perline=5" />
 </p>
 
----
+### 🖥 Desktop & Tools
 
-### 🖥️ **Desktop Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github&perline=5" />
 </p>
 
-- WinForms (.NET 4.8)
-- WPF Modern UI  
-- Avalonia (.NET 9, Native AOT)  
-- Packaging / Obfuscation / Licensing Systems  
+- WinForms, WPF, Avalonia UI  
+- Native AOT, packaging, deployment  
+
+### 🛡 Cybersecurity & Reverse Engineering
+
+- Reverse engineering (IDA, x64dbg, Ghidra)
+- Malware behavior analysis & unpacking
+- Obfuscation, encryption, packers, stubs
+- Linux pentesting tooling (recon, scanning, Bluetooth, network)
 
 ---
 
-### 🧬 **Reverse Engineering**
-<p>
-  <img src="https://img.shields.io/badge/IDA-Pro-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/x64dbg-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ghidra-yellow?style=for-the-badge" />
-</p>
+## 📌 Selected Work (Short Overview)
 
-- Assembly (x86, x64)  
-- Decompilation (IDA, Ghidra)  
-- Malware Behavior Analysis  
-- Obfuscation / Packers / Stubs  
-- Reversing VB6 / .NET / C++  
+- **ArrowSender-style tools**
+  - Desktop clients for messaging automation
+  - Integrations with web automation libraries (WhatsApp / Messenger)
+  - Queue systems, safe-mode sending, smart retries
 
----
+- **Gym / Fitness SaaS**
+  - Coach & client dashboards
+  - Nutrition & training plans
+  - Progress tracking, stats, and dashboards
 
-### 🛡 **Cybersecurity & Pentesting**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,raspberrypi&perline=8" />
-</p>
+- **Security / RE Experiments**
+  - C# obfuscation concepts inspired by ConfuserEx
+  - Analyzing VB6 / .NET applications at assembly level
+  - Designing license + protection flows
 
-- Linux, Bash Scripting  
-- Networking, ARP/DNS, MITM  
-- Bluetooth Hacking Tools  
-- Web Pentesting  
-- Recon / Enumeration / Exploits  
+*(Public & private repositories are mixed – some work is not open source.)*
 
 ---
 
-### 🧩 **DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,postman" />
-</p>
+## 📊 GitHub Stats
+
+> 🔁 تذكير: إذا لم يكن اسم المستخدم الخاص بك على GitHub هو `doctorx`، غيّره في الروابط أدناه.
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=doctorx&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorx&layout=compact&theme=radical" />
+
+  <br/><br/>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=doctorx&theme=radical" />
+
+</div>
 
 ---
 
-## 🔥 **Featured Projects**
+## 🧪 Bash & Automation
 
-### 📨 ArrowSender Pro  
-Automation suite for Messenger/WhatsApp:  
-- Multi accounts  
-- Buttons, media, campaigns  
-- WebView2 integration  
-- Anti-freeze protection  
-- Obfuscation + license system  
+I frequently use **Bash** for:
 
-🚀 **Tech**: C#, WinForms, Node.js, Mongo, WebView2
+- Automating repetitive tasks
+- Working with logs, processes, and services
+- Small tools for development & security workflows
 
----
-
-### 🏋️ Gym Online SaaS  
-A full ecosystem for coaches & clients:  
-- Nutrition system  
-- Progress tracking  
-- AI assistant  
-- Plans + subscriptions  
-- Client dashboard  
-
-🚀 **Tech**: React, Tailwind, Go, MongoDB
-
----
-
-### 🛡 Obfuscation & Security Tools  
-- Custom .NET Obfuscator  
-- Packers & Stub Architectures  
-- Go & Rust prototypes  
-- Security-focused reverse engineering  
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=doctorx&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorx&layout=compact&theme=dracula" />
-</p>
-
----
-
-## 🖼️ **Cool Images for Profile**
-
-<p align="center">
-  <img src="https://i.imgur.com/kvCw4eQ.gif" width="380"/>
-  <img src="https://i.imgur.com/kji1xB6.gif" width="380"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/8cJvVbR.png" width="500">
-</p>
-
----
-
-## 🌍 **Connect with Me**
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-</p>
-
-<h3 align="center">🔥 Always Building. Always Learning. Always Evolving.</h3>
+```bash
+# Example: quick log watcher
+tail -f /var/log/syslog | grep "ERROR"
