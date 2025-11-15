@@ -1,129 +1,145 @@
 <div align="center">
 
-# 👨‍💻 DoctorX
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:667EEA&height=250&section=header&text=DoctorX&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Reverse%20Engineer%20•%20Security%20Researcher&descAlignY=55&descAlign=50)
 
-### Full-Stack Developer • Reverse Engineer • Security Researcher
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+Secure+Systems;Reverse+Engineering+Expert;Full-Stack+Architect" alt="Typing SVG" />
-
-<p>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg" height="40" alt="Windows" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" height="40" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple.svg" height="40" alt="macOS" />
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /></a>
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DoctorX&color=2e9ef7&style=flat-square)](https://github.com/DoctorX)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Secure+%26+Scalable+Systems;Reverse+Engineering+Specialist;Full-Stack+Architect;Security+%26+Performance+Focused" alt="Typing SVG" />
+</p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-I'm a **full-stack engineer** and **reverse-engineering specialist** passionate about building secure, high-performance systems. My expertise spans from low-level binary analysis to modern web applications, with a focus on **clean architecture**, **security**, and **performance optimization**.
+> *Passionate engineer specialized in reverse engineering, security research, and building robust full-stack applications.*
 
-### What I Do
+I architect and develop **secure, high-performance systems** from the ground up. My expertise bridges **low-level binary analysis** and **modern software engineering**, with deep focus on security, clean code, and system optimization.
 
-- 🔬 **Low-Level Analysis** — Expert in IDA Pro, Ghidra, x64dbg, and Radare2
-- 🛡️ **Security Research** — Deobfuscation, unpacking, and malware behavior analysis
-- 🎮 **Game Hacking** — Memory instrumentation and reverse engineering
-- ⚙️ **Backend Engineering** — Scalable APIs with Node.js, Go, and .NET
-- 🖥️ **Desktop Development** — Cross-platform applications in C#, Avalonia, WPF
-- 🐧 **Linux Tooling** — GNOME extensions, Bash automation, system utilities
-- 🌐 **Web Development** — Modern interfaces with React and TypeScript
-- 🔧 **DevOps & Tooling** — Internal developer infrastructure and automation
+### 🎯 Core Expertise
 
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,go,ts,js,cpp,bash,python&theme=dark&perline=7" />
-</p>
-</details>
-
-<details open>
-<summary><b>🏗️ Backend & Databases</b></summary>
-<br>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,dotnet,mongodb,postgres,redis&theme=dark&perline=7" />
-</p>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite&theme=dark&perline=7" />
-</p>
-</details>
-
-<details open>
-<summary><b>🖥️ Desktop & Tools</b></summary>
-<br>
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,vim,git&theme=dark&perline=7" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛡️ Reverse Engineering & Security</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/IDA_Pro-202020?style=for-the-badge&logo=hackaday&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/Ghidra-EF1F1F?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/x64dbg-44CC11?style=for-the-badge&logo=CodersRank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radare2-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deobfuscation-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Memory_Analysis-4ECDC4?style=for-the-badge" />
-</p>
-</details>
+```yaml
+Reverse Engineering:
+  - Binary Analysis: IDA Pro, Ghidra, x64dbg, Radare2
+  - Malware Research: Unpacking, deobfuscation, behavior analysis
+  - Memory Engineering: Game hacking, instrumentation, debugging
+  
+Backend Development:
+  - Languages: Go, Node.js, C#/.NET
+  - Databases: MongoDB, PostgreSQL, Redis
+  - Architecture: RESTful APIs, microservices, scalable systems
+  
+Desktop Applications:
+  - Frameworks: WinForms, WPF, Avalonia UI
+  - Integration: WebView2, native modules, system APIs
+  - Focus: Automation tools, security utilities, dev tools
+  
+System Programming:
+  - Linux: GNOME extensions, shell scripting, system automation
+  - DevOps: CI/CD pipelines, monitoring, infrastructure
+  - Tools: Custom utilities, workflow enhancement
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Arsenal
+
+### Languages & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### Frontend & UI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Security & Reverse Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA_Pro-00599C?style=for-the-badge&logo=htop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-EF1F1F?style=for-the-badge&logo=ghostery&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-44CC11?style=for-the-badge&logo=codacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radare2-6A1B9A?style=for-the-badge&logo=ruins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Binary_Analysis-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory_Debugging-4ECDC4?style=for-the-badge&logo=openbugbounty&logoColor=white" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+</p>
+
+---
+
+## 💼 What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 📨 ArrowSender
-**Advanced Messaging Automation Suite**
-
-A comprehensive desktop automation platform for enterprise messaging operations.
-
-**Features:**
-- Multi-platform support (Messenger, WhatsApp)
-- Campaign management with safe-mode sending
-- Message queueing and scheduling
-- WebView2 integration
-- Secure storage and licensing system
-
-**Stack:** `C#` `WinForms` `Avalonia` `Node.js` `MongoDB`
-
-🔒 *Private Repository*
+### 🔧 Desktop Applications
+- **Automation suites** for enterprise workflows
+- **Developer tools** and IDE extensions
+- **Security utilities** and analysis tools
+- Cross-platform apps with Avalonia & WPF
+- Native Windows applications
+- WebView2 integration projects
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🛠️ GRZ Tool
-**Reverse Engineering Utilities**
+### 🌐 Backend Systems
+- **RESTful APIs** and microservices
+- **Authentication systems** & secure storage
+- **Real-time messaging** platforms
+- Database architecture & optimization
+- Campaign management systems
+- Queue processing & job scheduling
 
-A powerful toolkit for binary analysis and reverse engineering workflows.
+</td>
+<td width="33%" valign="top">
 
-**Features:**
-- Static and dynamic analysis
-- Scriptable unpacking engine
-- Low-level binary inspection
-- Memory scanning and patching
-- x64dbg integration
-
-**Stack:** `C#` `Native Modules` `x64dbg API`
-
-🔒 *Private Repository*
+### 🛡️ Security Tools
+- **Binary analysis** frameworks
+- **Deobfuscation** engines
+- **Memory scanning** utilities
+- **Game hacking** tools
+- Unpacking & reverse engineering
+- Malware behavior research
 
 </td>
 </tr>
@@ -131,55 +147,118 @@ A powerful toolkit for binary analysis and reverse engineering workflows.
 
 ---
 
-## 🐧 Linux & System Tools
+## 🐧 Linux & System Expertise
 
-I specialize in creating developer-friendly tooling for Linux environments:
+I create powerful tools and automation for Linux environments:
 
-- **GNOME Extensions** — Custom desktop enhancements
-- **Shell Utilities** — Productivity automation scripts
-- **System Monitors** — Service watchers and health checks
-- **Workflow Tools** — Developer experience improvements
+<table>
+<tr>
+<td width="50%">
 
-### Example: Service Auto-Restart Watcher
+### 📦 What I Build
+- **GNOME Extensions** — Desktop customization
+- **Shell Scripts** — Workflow automation
+- **System Monitors** — Service health checks
+- **Developer Tools** — Productivity enhancers
+- **Build Systems** — Custom toolchains
+- **Deployment Scripts** — CI/CD automation
+
+</td>
+<td width="50%">
+
+### 🔄 Service Auto-Recovery Script
 
 ```bash
 #!/bin/bash
-# Service health monitor with auto-recovery
+# Intelligent service health monitor
 
-SERVICE_NAME="backend.service"
-CHECK_INTERVAL=3
+SERVICE="backend.service"
+LOG_FILE="/var/log/service-monitor.log"
+MAX_RETRIES=3
+retry_count=0
+
+log_message() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"
+}
 
 while true; do
-  if ! systemctl is-active --quiet "$SERVICE_NAME"; then
-      echo "[$(date '+%Y-%m-%d %H:%M:%S')] Service down, restarting..."
-      systemctl restart "$SERVICE_NAME"
-      
-      if systemctl is-active --quiet "$SERVICE_NAME"; then
-          echo "[$(date '+%Y-%m-%d %H:%M:%S')] Service restored successfully"
-      else
-          echo "[$(date '+%Y-%m-%d %H:%M:%S')] CRITICAL: Restart failed!"
-      fi
-  fi
-  sleep $CHECK_INTERVAL
+    if ! systemctl is-active --quiet "$SERVICE"; then
+        retry_count=$((retry_count + 1))
+        log_message "⚠️  Service down (Attempt $retry_count/$MAX_RETRIES)"
+        
+        systemctl restart "$SERVICE"
+        sleep 2
+        
+        if systemctl is-active --quiet "$SERVICE"; then
+            log_message "✅ Service restored"
+            retry_count=0
+        elif [ $retry_count -ge $MAX_RETRIES ]; then
+            log_message "🚨 CRITICAL: Max retries reached!"
+            # Send alert notification
+            retry_count=0
+        fi
+    fi
+    sleep 3
 done
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoctorX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorX&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoctorX&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoctorX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoctorX&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoctorX&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Focus Areas
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((DoctorX))
+    Reverse Engineering
+      Binary Analysis
+      Malware Research
+      Game Hacking
+      Memory Forensics
+    Full-Stack Development
+      Backend APIs
+      Desktop Apps
+      Web Platforms
+      System Tools
+    Security Research
+      Vulnerability Analysis
+      Exploit Development
+      Security Auditing
+      Penetration Testing
+    DevOps & Automation
+      CI/CD Pipelines
+      Infrastructure as Code
+      Monitoring Systems
+      Workflow Optimization
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -187,6 +266,7 @@ done
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 </div>
 
@@ -194,10 +274,18 @@ done
 
 <div align="center">
 
-### 💡 *"Security through obscurity is no security at all. Understanding systems deeply is the first step to securing them."*
+### 💭 Philosophy
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+*"The best way to understand a system is to take it apart. The best way to secure it is to know how it breaks."*
 
-**⭐ Star my repositories if you find them useful!**
+### 🌟 Open for Collaboration
+
+I'm interested in challenging projects involving **reverse engineering**, **security research**, **high-performance systems**, and **innovative tooling**.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:2E9EF7&height=120&section=footer" width="100%"/>
+
+**⭐ If you find my work interesting, consider starring my repositories!**
 
 </div>
