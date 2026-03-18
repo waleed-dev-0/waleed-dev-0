@@ -3,8 +3,8 @@
 ```
 ██████╗  ██████╗  ██████╗████████╗ ██████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚██╗██╔╝
-██║  ██║██║   ██║██║        ██║   ██║   ██║██████╔╝ ╚███╔╝
-██║  ██║██║   ██║██║        ██║   ██║   ██║██╔══██╗ ██╔██╗
+██║  ██║██║   ██║██║        ██║   ██║   ██║██████╔╝ ╚███╔╝ 
+██║  ██║██║   ██║██║        ██║   ██║   ██║██╔══██╗ ██╔██╗ 
 ██████╔╝╚██████╔╝╚██████╗   ██║   ╚██████╔╝██║  ██║██╔╝ ██╗
 ╚═════╝  ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
@@ -13,13 +13,13 @@
 
 ---
 
-I work at the intersection of low-level systems and applied intelligence — building autonomous agents, real-time vision pipelines, reverse engineering tooling, and backend infrastructure.
+I build things that live between the OS and the model — autonomous agents, real-time vision pipelines, reverse engineering tooling, and backend infrastructure. The focus is always on correctness and things that run in the real world, not just in demos.
 
-Most of my work lives somewhere between the OS and the model. The focus is on correctness, reliability, and things that run in the real world.
+Most of what I work on starts with a problem that off-the-shelf tools can't solve cleanly, which means building the entire stack from scratch: from raw screen data to a deployable model, or from a memory dump to a working disassembly.
 
 ---
 
-## AI & Intelligent Systems
+## 🤖 AI & Intelligent Systems
 
 - Autonomous agents with closed-loop pipelines: screen capture → inference → action
 - Real-time object detection and classification using YOLO and custom-trained models
@@ -31,7 +31,7 @@ Most of my work lives somewhere between the OS and the model. The focus is on co
 
 ---
 
-## Systems & Backend
+## ⚙️ Systems & Backend
 
 - Go, C#/.NET, Node.js
 - REST APIs, microservice decomposition, background job queues
@@ -42,7 +42,7 @@ Most of my work lives somewhere between the OS and the model. The focus is on co
 
 ---
 
-## Desktop & Automation
+## 🖥️ Desktop & Automation
 
 - Native Windows applications: WinForms, WPF, Avalonia UI
 - WebView2 embedding and host-object bridging
@@ -52,7 +52,7 @@ Most of my work lives somewhere between the OS and the model. The focus is on co
 
 ---
 
-## Reverse Engineering & Security
+## 🔍 Reverse Engineering & Security
 
 - Static analysis: IDA Pro, Ghidra, Radare2
 - Dynamic analysis: x64dbg, memory inspection, runtime patching
@@ -62,7 +62,7 @@ Most of my work lives somewhere between the OS and the model. The focus is on co
 
 ---
 
-## Linux & DevOps
+## 🐧 Linux & DevOps
 
 - Bash scripting and system automation
 - GNOME Shell extension development
@@ -74,14 +74,29 @@ Most of my work lives somewhere between the OS and the model. The focus is on co
 
 ## Stack
 
-```
-Languages     Python · C++ · C# · Go · JavaScript · Bash · x86 ASM
-AI/ML         PyTorch · OpenCV · YOLO · Ultralytics · Hugging Face · llama.cpp
-Backend       .NET · Node.js · FastAPI · MongoDB · PostgreSQL · Redis
-Desktop       WinForms · WPF · Avalonia · Win32 API · WebView2
-RE Tools      IDA Pro · Ghidra · x64dbg · Radare2 · Frida
-DevOps        Docker · GitHub Actions · Linux · systemd
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![x86 ASM](https://img.shields.io/badge/x86_ASM-6E4C13?style=flat-square)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
