@@ -1,177 +1,108 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:667EEA&height=250&section=header&text=DoctorX&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20•%20AI%20%26%20Automation%20•%20Reverse%20Engineering&descAlignY=55&descAlign=50)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Building+AI+Agents+That+Interact+With+Real+Systems;Reverse+Engineering+%26+Deep+System+Analysis;High-Performance+Backend+%26+Automation;Security+Focused+Engineering" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
-</p>
+```
+██████╗  ██████╗  ██████╗████████╗ ██████╗ ██████╗ ██╗  ██╗
+██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚██╗██╔╝
+██║  ██║██║   ██║██║        ██║   ██║   ██║██████╔╝ ╚███╔╝ 
+██║  ██║██║   ██║██║        ██║   ██║   ██║██╔══██╗ ██╔██╗ 
+██████╔╝╚██████╔╝╚██████╗   ██║   ╚██████╔╝██║  ██║██╔╝ ██╗
+╚═════╝  ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
 </div>
 
 ---
 
-## 👋 About
+I build systems that operate at the intersection of low-level control and high-level intelligence — autonomous agents, real-time vision pipelines, reverse engineering tooling, and backend infrastructure that actually holds under load.
 
-I build **intelligent systems that operate in real environments** — combining AI, automation, and low-level engineering.
-
-- 🧠 AI systems & model engineering  
-- ⚙️ backend & scalable architectures  
-- 🛡️ reverse engineering & security research  
-- 🧩 automation interacting with live applications  
-
-Focused on **performance, control, and real execution — not just prototypes**.
+Most of my work lives between the OS and the model. I care about what runs correctly, not what looks impressive on a slide.
 
 ---
 
-## 🧠 AI & Intelligent Systems
+## AI & Intelligent Systems
 
-```yaml
-AI Systems:
-  - Vision-based agents (screen → decision → action)
-  - Real-time automation bots
-  - Hybrid AI + rule-based decision systems
+- Autonomous agents with closed-loop screen capture → inference → action pipelines
+- Real-time object detection and classification using YOLO and custom-trained models
+- Dataset construction from scratch: synthetic generation, labeling pipelines, augmentation, evaluation
+- Fine-tuning vision and language models for domain-specific tasks
+- Hybrid decision systems: learned policy layered over deterministic rule engines
+- Reinforcement learning in controlled simulated environments
+- Integration with local models (Ollama, llama.cpp) and cloud APIs (OpenAI, Anthropic, OpenRouter)
 
-Model Engineering:
-  - Fine-tuning models (task-specific)
-  - LLM / VLM integration (local & APIs)
-  - Dataset building, labeling, evaluation
+---
 
-Computer Vision:
-  - OpenCV pipelines (detection, tracking, preprocessing)
-  - Real-time inference optimization
-  - Screen-based recognition systems
+## Systems & Backend
 
-Learning:
-  - Reinforcement learning in controlled environments
+- Go, C#/.NET, Node.js
+- REST APIs, microservice decomposition, background job queues
+- MongoDB, PostgreSQL, Redis — schema design, query optimization, caching strategies
+- Auth systems: JWT, OAuth2, session management
+- Performance-oriented design: profiling, reducing allocations, avoiding serialization overhead
+- Async pipelines and event-driven processing
+
+---
+
+## Desktop & Automation
+
+- Native Windows applications: WinForms, WPF, Avalonia UI
+- WebView2 embedding and host-object bridging
+- System-level automation: input simulation, window management, screen capture
+- Click-through overlay rendering with Win32 layered window APIs
+- Developer tooling and internal utilities
+
+---
+
+## Reverse Engineering & Security
+
+- Static analysis: IDA Pro, Ghidra, Radare2
+- Dynamic analysis: x64dbg, memory inspection, runtime patching
+- Malware deobfuscation and behavioral analysis
+- Game instrumentation and memory mapping
+- PE format internals, import reconstruction, unpacking
+
+---
+
+## Linux & DevOps
+
+- Bash scripting and system automation
+- GNOME Shell extension development
+- CI/CD pipeline configuration (GitHub Actions, Docker)
+- Log aggregation and basic monitoring setups
+- Service hardening and resource management
+
+---
+
+## Stack
+
+```
+Languages     Python · C++ · C# · Go · JavaScript · Bash · x86 ASM
+AI/ML         PyTorch · OpenCV · YOLO · Ultralytics · Hugging Face · llama.cpp
+Backend       .NET · Node.js · FastAPI · MongoDB · PostgreSQL · Redis
+Desktop       WinForms · WPF · Avalonia · Win32 API · WebView2
+RE Tools      IDA Pro · Ghidra · x64dbg · Radare2 · Frida
+DevOps        Docker · GitHub Actions · Linux · systemd
 ```
 
 ---
 
-## ⚙️ Systems & Backend Engineering
+## What I Build
 
-```yaml
-Backend:
-  - Go, Node.js, C#/.NET
-  - REST APIs & microservices
-  - Authentication & secure systems
-  - Real-time services & messaging
-
-Data:
-  - MongoDB, PostgreSQL, Redis
-
-Architecture:
-  - Scalable system design
-  - Queue systems & job processing
-```
+- Agents that read real application state and act autonomously — no APIs, just vision and control
+- Training pipelines that go from raw screen data to a deployable classification model
+- Automation systems that replace repetitive human interaction at the OS level
+- Internal tools that make engineering workflows faster and less error-prone
+- Backends designed to run lean and stay up
 
 ---
-
-## 🖥️ Desktop & Automation
-
-```yaml
-Applications:
-  - WinForms, WPF, Avalonia UI
-  - Native Windows tools
-  - WebView2 integrations
-
-Automation:
-  - External app control (screen / input / system)
-  - Workflow automation systems
-  - Developer tools & utilities
-```
-
----
-
-## 🛡️ Reverse Engineering & Security
-
-```yaml
-Reverse Engineering:
-  - IDA Pro, Ghidra, x64dbg, Radare2
-  - Binary analysis & debugging
-
-Security Research:
-  - Malware analysis & deobfuscation
-  - Behavior analysis
-
-Memory:
-  - Memory inspection & instrumentation
-  - Runtime analysis & game hacking
-```
-
----
-
-## 🐧 Linux & DevOps
-
-```yaml
-Linux:
-  - Shell scripting & system automation
-  - GNOME extensions
-  - System-level tooling
-
-DevOps:
-  - CI/CD pipelines
-  - Monitoring & automation systems
-```
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
-
----
-
-## 🔥 What I Build
-
-- 🤖 AI agents & vision-based automation systems  
-- ⚙️ scalable backend & distributed systems  
-- 🖥️ desktop tools & system utilities  
-- 🛡️ reverse engineering & security tooling  
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DoctorX&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
+
 </div>
 
 ---
 
-## 🎯 Focus
-
-- Systems that **act, not just predict**
-- AI integrated into real workflows
-- Performance-first engineering
-- Deep system understanding (UI → memory)
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
 <div align="center">
-
-"The best engineers don’t just build systems — they understand how they break, control, and optimize them."
-
+<sub>I don't update this often. The repos speak louder.</sub>
 </div>
