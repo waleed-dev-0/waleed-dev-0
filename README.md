@@ -3,8 +3,8 @@
 ```
 ██████╗  ██████╗  ██████╗████████╗ ██████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚██╗██╔╝
-██║  ██║██║   ██║██║        ██║   ██║   ██║██████╔╝ ╚███╔╝ 
-██║  ██║██║   ██║██║        ██║   ██║   ██║██╔══██╗ ██╔██╗ 
+██║  ██║██║   ██║██║        ██║   ██║   ██║██████╔╝ ╚███╔╝
+██║  ██║██║   ██║██║        ██║   ██║   ██║██╔══██╗ ██╔██╗
 ██████╔╝╚██████╔╝╚██████╗   ██║   ╚██████╔╝██║  ██║██╔╝ ██╗
 ╚═════╝  ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
@@ -13,19 +13,19 @@
 
 ---
 
-I build systems that operate at the intersection of low-level control and high-level intelligence — autonomous agents, real-time vision pipelines, reverse engineering tooling, and backend infrastructure that actually holds under load.
+I work at the intersection of low-level systems and applied intelligence — building autonomous agents, real-time vision pipelines, reverse engineering tooling, and backend infrastructure.
 
-Most of my work lives between the OS and the model. I care about what runs correctly, not what looks impressive on a slide.
+Most of my work lives somewhere between the OS and the model. The focus is on correctness, reliability, and things that run in the real world.
 
 ---
 
 ## AI & Intelligent Systems
 
-- Autonomous agents with closed-loop screen capture → inference → action pipelines
+- Autonomous agents with closed-loop pipelines: screen capture → inference → action
 - Real-time object detection and classification using YOLO and custom-trained models
 - Dataset construction from scratch: synthetic generation, labeling pipelines, augmentation, evaluation
 - Fine-tuning vision and language models for domain-specific tasks
-- Hybrid decision systems: learned policy layered over deterministic rule engines
+- Hybrid decision systems: learned policy combined with deterministic rule engines
 - Reinforcement learning in controlled simulated environments
 - Integration with local models (Ollama, llama.cpp) and cloud APIs (OpenAI, Anthropic, OpenRouter)
 
@@ -37,7 +37,7 @@ Most of my work lives between the OS and the model. I care about what runs corre
 - REST APIs, microservice decomposition, background job queues
 - MongoDB, PostgreSQL, Redis — schema design, query optimization, caching strategies
 - Auth systems: JWT, OAuth2, session management
-- Performance-oriented design: profiling, reducing allocations, avoiding serialization overhead
+- Performance-focused design: profiling, reducing allocations, minimizing serialization overhead
 - Async pipelines and event-driven processing
 
 ---
@@ -67,7 +67,7 @@ Most of my work lives between the OS and the model. I care about what runs corre
 - Bash scripting and system automation
 - GNOME Shell extension development
 - CI/CD pipeline configuration (GitHub Actions, Docker)
-- Log aggregation and basic monitoring setups
+- Log aggregation and monitoring setups
 - Service hardening and resource management
 
 ---
@@ -87,22 +87,22 @@ DevOps        Docker · GitHub Actions · Linux · systemd
 
 ## What I Build
 
-- Agents that read real application state and act autonomously — no APIs, just vision and control
-- Training pipelines that go from raw screen data to a deployable classification model
-- Automation systems that replace repetitive human interaction at the OS level
-- Internal tools that make engineering workflows faster and less error-prone
-- Backends designed to run lean and stay up
+- Agents that read live application state and act autonomously — driven by vision, not APIs
+- End-to-end training pipelines from raw screen data to a deployable classification model
+- Automation systems that handle repetitive OS-level interaction reliably
+- Internal tools that reduce friction in day-to-day engineering work
+- Backend services designed to stay lean and stable under real usage
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorX&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>I don't update this often. The repos speak louder.</sub>
+<sub>The repositories are more up to date than this page.</sub>
 </div>
