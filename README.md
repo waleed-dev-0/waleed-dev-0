@@ -176,7 +176,7 @@ Most of what I work on starts with a problem that off-the-shelf tools can't solv
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorX&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waleed-dev-0&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
 
 </div>
 
